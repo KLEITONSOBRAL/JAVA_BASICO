@@ -1,9 +1,29 @@
+/*
+Faça um programa em Java que leia o nome e o salário atual de vários funcionários.
+A leitura deve continuar até que seja digitado `FIM` no lugar do nome do funcionário.
+Para cada funcionário, o programa deve calcular o salário reajustado de acordo com a seguinte tabela:
+Salário até 150: aumento de 25%
+Salário acima de 150 até 300: aumento de 20%
+Salário acima de 300 até 600: aumento de 15%
+Salário acima de 600: aumento de 10%
+Para cada funcionário, o programa deve exibir:
+Nome do funcionário
+Salário atual
+Salário reajustado
+Ao final, o programa deve exibir:
+Soma dos salários atuais
+Soma dos salários reajustados
+Diferença entre a soma dos salários reajustados e a soma dos salários atuais
+*/
+
 package com.mycompany.exercicio_14_kleiton;
 
 import java.util.Scanner;
 
 public class EXERCICIO_14_KLEITON {
+    
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
         
         double somaSalariosAtuais = 0;
