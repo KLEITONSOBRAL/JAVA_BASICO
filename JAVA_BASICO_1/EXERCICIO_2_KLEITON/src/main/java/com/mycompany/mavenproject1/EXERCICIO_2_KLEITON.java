@@ -1,4 +1,5 @@
-/*Faça um programa em Java que leia dois números inteiros digitados pelo usuário. 
+/*
+Faça um programa em Java que leia dois números inteiros digitados pelo usuário. 
 Caso os dois números sejam positivos, calcule e exiba a soma entre eles no seguinte formato:
 Soma de N1 com N2 = RESULTADO
 Caso algum dos números seja zero ou negativo, exiba a mensagem:
