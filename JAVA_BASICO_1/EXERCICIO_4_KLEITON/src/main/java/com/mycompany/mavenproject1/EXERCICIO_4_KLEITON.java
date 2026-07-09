@@ -1,4 +1,5 @@
-/*Faça um programa em Java que leia três valores reais representando os lados de um triângulo.
+/*
+Faça um programa em Java que leia três valores reais representando os lados de um triângulo.
 O programa deve verificar se os valores fornecidos podem formar um triângulo.
 Caso possam, classifique o triângulo como:
 Triangulo Equilatero — quando os três lados forem iguais.
