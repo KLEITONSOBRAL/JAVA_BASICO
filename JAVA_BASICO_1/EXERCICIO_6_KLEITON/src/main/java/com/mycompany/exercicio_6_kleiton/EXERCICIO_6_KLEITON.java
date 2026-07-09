@@ -1,4 +1,5 @@
-/*Faça um programa em Java que leia números inteiros repetidamente.
+/*
+Faça um programa em Java que leia números inteiros repetidamente.
 Para cada número informado, o programa deve verificar se ele é positivo ou negativo.
 Se o número for maior que zero, exiba:
 Positivo
