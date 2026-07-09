@@ -1,4 +1,5 @@
-/*Faça um programa em Java que leia o nome e o peso de um lutador.
+/*
+Faça um programa em Java que leia o nome e o peso de um lutador.
 Com base no peso informado, o programa deve classificar o lutador em uma das seguintes categorias:
 Pena — abaixo de 65 kg
 Leve — de 65 kg até abaixo de 72 kg
