@@ -32,7 +32,7 @@ public class EXERCICIO_8_KLEITON {
             temp = valor1;
             valor1 = valor2;
             valor2 = temp;
-            System.out.println("Valores invertidos: Minimo agora é " + valor1 + " e o Máximo é " + valor2);
+            System.out.println("Valores invertidos: Minimo agora é " + valor1 + " e o Máximo agora é " + valor2);
         }
 
         do {
