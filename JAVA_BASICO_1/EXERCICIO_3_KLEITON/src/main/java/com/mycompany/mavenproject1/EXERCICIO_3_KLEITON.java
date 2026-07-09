@@ -1,4 +1,5 @@
-/*Faça um programa em Java que leia dois números inteiros digitados pelo usuário.
+/*
+Faça um programa em Java que leia dois números inteiros digitados pelo usuário.
 O programa deve calcular e exibir a soma dos números apenas se os dois forem do mesmo tipo de sinal,
 ou seja, ambos positivos ou iguais a zero, ou ambos negativos.
 Caso um número seja positivo ou zero e o outro seja negativo, exiba a mensagem:
@@ -29,7 +30,7 @@ public class EXERCICIO_3_KLEITON {
             resultado = num1 + num2;
             System.out.println("Soma de " + num1 + " com " + num2 + " = " + resultado);
         } else {
-            System.out.println("Dados de entrada sao invalidos");
+            System.out.println("Dados de entrada são invalidos");
         }
 
         scanner.close();
