@@ -29,7 +29,7 @@ public class EXERCICIO_9_KLEITON {
             int temp = min;
             min = max;
             max = temp;
-            System.out.println("Valores invertidos: Min agora e " + min + " e Max e " + max);
+            System.out.println("Valores invertidos: Minimo agora é " + min + " e Máximo agora é " + max);
         }
 
         ArrayList<Integer> valores = new ArrayList<>();
