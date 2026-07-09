@@ -1,4 +1,5 @@
-/*Faça um programa em Java que leia números inteiros positivos digitados pelo usuário.
+/*
+Faça um programa em Java que leia números inteiros positivos digitados pelo usuário.
 A leitura deve continuar enquanto forem informados valores positivos.
 Quando o usuário digitar um valor menor ou igual a zero, o programa deve encerrar a leitura.
 Ao final, caso tenha sido informado pelo menos um valor positivo, o programa deve exibir:
@@ -49,7 +50,7 @@ public class EXERCICIO_7_KLEITON {
             System.out.println("Menor valor: " + menor);
             System.out.println("Quantidade de valores: " + quantidade);
             System.out.println("Soma: " + soma);
-            System.out.println("Media: " + media);
+            System.out.println("Média: " + media);
         } else {
             System.out.println("Nenhum valor positivo foi informado.");
         }
